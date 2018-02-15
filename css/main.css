@@ -19,27 +19,26 @@ html {
 
 body {
   margin: 0;
-  font-family: Open Sans, sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
-.watermelon h2{
-  font-family: Rammetto One, cursive;
+.watermelon h2 {
+  font-family: "Rammetto One", cursive;
 }
 
 .watermelon {
   background-color: #e97065;
 }
 
-.starfruit h2{
-  font-family: Gravitas One, cursive;
-
+.starfruit h2 {
+  font-family: "Gravitas One", cursive;
 }
 
 .starfruit {
   background-color: #fbd25e;
 }
 
-.persimmon h2{
+.persimmon h2 {
   font-family: Comfortaa, cursive;
 }
 
