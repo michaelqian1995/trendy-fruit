@@ -19,11 +19,11 @@ html {
 
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Open Sans, sans-serif;
 }
 
 .watermelon h2{
-  font-family: 'Rammetto One', cursive;
+  font-family: Rammetto One, cursive;
 }
 
 .watermelon {
@@ -31,7 +31,7 @@ body {
 }
 
 .starfruit h2{
-  font-family: 'Gravitas One', cursive;
+  font-family: Gravitas One, cursive;
 
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 .persimmon h2{
-  font-family: 'Comfortaa', cursive;
+  font-family: Comfortaa, cursive;
 }
 
 .persimmon {
